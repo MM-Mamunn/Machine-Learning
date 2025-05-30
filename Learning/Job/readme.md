@@ -29,11 +29,11 @@ We implemented and compared the performance of the following classification algo
 
 ## 📊 Results
 
-- **SVM**: **80%**
+- **SVM**: **81%**
+- **Neural Network**: **81%**
 - **KNN Accuracy**: **75%**
-- **Logistic Regression**: **70%**
-- **Neural Network**: **70%**
+- **Logistic Regression**: **72%**
 
 ### ✅ Conclusion:
 
-The **SVM** model performed better than other models for this classification task, achieving higher prediction accuracy.
+The **SVM** and **NN** models performed better than other models for this classification task, achieving higher prediction accuracy.

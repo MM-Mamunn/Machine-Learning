@@ -24,10 +24,14 @@ We implemented and compared the performance of the following classification algo
 
 - **K-Nearest Neighbors (KNN)**
 - **Neural Network (NN)**
+- **SVM**
+- **Naive Bayes**
 
 ## 📊 Results
 
 - **Neural Network Accuracy**: **89%**
+- **SVM Accuracy**: **88%**
+- **Naive Bayes Accuracy**: **88%**
 - **KNN Accuracy**: **85%**
 
 ### ✅ Conclusion:
