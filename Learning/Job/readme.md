@@ -25,13 +25,15 @@ We implemented and compared the performance of the following classification algo
 - **K-Nearest Neighbors (KNN)**
 - **SVM**
 - **Logistic Regression**
+- **Neural Network**
 
 ## 📊 Results
 
 - **SVM**: **80%**
 - **KNN Accuracy**: **75%**
 - **Logistic Regression**: **70%**
+- **Neural Network**: **70%**
 
 ### ✅ Conclusion:
 
-The **এশ** model performed better than the KNN model for this classification task, achieving higher prediction accuracy.
+The **SVM** model performed better than other models for this classification task, achieving higher prediction accuracy.
